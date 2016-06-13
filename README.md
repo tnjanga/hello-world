@@ -1,5 +1,6 @@
 # hello-world
 Initial Repository
 
-My favorite color is brown
-I am from Ohio
+Hiya!
+I am from Ohio.
+My favorite color is brown.
